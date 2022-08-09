@@ -1,0 +1,20 @@
+{
+  "name": "algorithms-data-structures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.8",
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "watch": "nodemon -r esm src/index.js",
+    "test": "jest"
+  }
+}
