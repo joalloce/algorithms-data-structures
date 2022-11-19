@@ -9,6 +9,7 @@ It uses the folling technologies:
   
 # Setup
 ```sh
+npm install
 npm run watch
 ```
 # Test
