@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-Examples of some of the most important Algorithms and Data Structures.
+Some Algorithms and Data Structures in JavaScript
 
 It uses the folling technologies:
 
@@ -10,6 +10,8 @@ It uses the folling technologies:
 # Setup
 ```sh
 npm run watch
-
+```
+# Test
+```sh
 npm run test
 ```
